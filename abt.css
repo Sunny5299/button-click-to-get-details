@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: gray;
+    max-width: 50vw;
+    min-height: 50vh;
+    margin: auto;
+    justify-content: center;
+    margin-top: 100px;
+}
+.box{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    max-width: 280px;
+    min-height: 30px;
+    background-color: blue;
+}
+.History{
+    width: 80px;
+    min-height: 15px;
+    margin-top: 2px;
+    margin-right: 10px;
+}
+button{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}
+.geography{
+    width: 80px;
+    min-height: 15px;
+    margin-top: 2px;
+    margin-right: 10px;
+}
+.programlanguages{
+    width: 80px;
+    height: fit-content;
+    margin-top: 2px;
+}
+.para{
+    margin: auto;
+    justify-content: center;
+    max-width: 280px;
+    min-height: 30px;
+    background-color: wheat;
+    margin-top: 30px;
+    align-items: center;
+}
